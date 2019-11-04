@@ -5,7 +5,9 @@ BM OCHA verilerini kullanarak 2015 ile 2019 yılları arasında ülkede meydana 
 
 :yemen: Veri seti olarak HDX üzerinde yayınlanan [bu sayfadaki](https://data.humdata.org/dataset/acled-data-for-yemen) CSV dosyasını kullandım.
 
-:airplane: Görselleştirmeyi interaktif olarak [buradan](https://public.tableau.com/views/CrisisandviolenceinYemen/Dashboard) inceleyebilirsiniz.
+:bar_chart: Görselleştirmeyi interaktif olarak [buradan](https://public.tableau.com/views/CrisisandviolenceinYemen/Dashboard) inceleyebilirsiniz.
+
+:airplane: 2017 yılında gerçekleştirdiğim Yemen seyahatimle alakalı yazıları ise [buradan](https://medium.com/yolyemekssk/kavganin-ortasinda-kalan-yemene-yolculuk-66bbc3b250d6) ve [buradan](https://medium.com/yolyemekssk/hucrede-tutulan-iki-yardim-gorevlisinin-yemen-yolculugu-903335444709) okuyabilirsiniz.
 
 ---
 
