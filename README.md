@@ -9,6 +9,10 @@ BM OCHA verilerini kullanarak 2015 ile 2019 yılları arasında ülkede meydana 
 
 :airplane: 2017 yılında gerçekleştirdiğim Yemen seyahatimle alakalı yazıları ise [buradan](https://medium.com/yolyemekssk/kavganin-ortasinda-kalan-yemene-yolculuk-66bbc3b250d6) ve [buradan](https://medium.com/yolyemekssk/hucrede-tutulan-iki-yardim-gorevlisinin-yemen-yolculugu-903335444709) okuyabilirsiniz.
 
+## Ben Yemen'deyken 185 kişi hayatını kaybetmiş
+
+Verileri görselleştirince öğrendim ki 2017 yılında 15 günlük insani yardım görevi için gittiğim Yemen'de ben oradayken ülke genelinde 377 olay meydana gelmiş. Bu olaylar sonucunda ise 185 kişi hayatını kaybetmiş. Üstelik çoğunlukla benim dolaştığım yerlerde.
+
 ---
 
 ![Tableau image](tableau-dashboard.png)
