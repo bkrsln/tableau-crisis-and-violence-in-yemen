@@ -7,4 +7,6 @@ BM OCHA verilerini kullanarak 2015 ile 2019 yılları arasında ülkede meydana 
 
 :airplane: Görselleştirmeyi interaktif olarak [buradan](https://public.tableau.com/views/CrisisandviolenceinYemen/Dashboard) inceleyebilirsiniz.
 
+---
+
 ![Tableau image](tableau-dashboard.png)
